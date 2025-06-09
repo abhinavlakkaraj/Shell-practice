@@ -25,4 +25,4 @@ then
 else 
     echo "Installing Mysql is Failure"
 fi         
-dnf install Mysql -y 
+dnf install mysql -y 

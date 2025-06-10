@@ -51,4 +51,4 @@ else
     echo "nginx is already installed...Nothing to do"
 fi    
 
-echo " Number of variables passed: $# "
+echo " Present Working Directory : $ PWD"

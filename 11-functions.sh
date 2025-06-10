@@ -51,4 +51,4 @@ else
     echo "nginx is already installed...Nothing to do"
 fi    
 
-echo " Present Working Directory : $ PWD"
+echo " Present Working Directory : $PWD"

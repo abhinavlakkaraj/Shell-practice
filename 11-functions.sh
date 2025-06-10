@@ -50,3 +50,5 @@ then
 else
     echo "nginx is already installed...Nothing to do"
 fi    
+
+echo "All variables are passed to the script: $@"

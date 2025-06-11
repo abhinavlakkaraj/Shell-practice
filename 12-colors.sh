@@ -42,7 +42,7 @@ then
     dnf install python3 -y
     VALIDATE $? "python3"
 else
-    echo -e "Nothing to do ... $Y Python3 is Installed "
+    echo -e "Nothing to do ... $Y Python3 is Installed $N "
 fi
 
 dnf list installed nginx
